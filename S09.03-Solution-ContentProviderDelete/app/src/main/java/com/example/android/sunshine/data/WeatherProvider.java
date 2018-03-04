@@ -306,8 +306,8 @@ public class WeatherProvider extends ContentProvider {
     public int delete(@NonNull Uri uri, String selection, String[] selectionArgs) {
 
         /* Users of the delete method will expect the number of rows deleted to be returned. */
-        int numRowsDeleted;
 
+        int numRowsDeleted;
         /*
          * If we pass null as the selection to SQLiteDatabase#delete, our entire table will be
          * deleted. However, if we do pass null and delete all of the rows in the table, we won't

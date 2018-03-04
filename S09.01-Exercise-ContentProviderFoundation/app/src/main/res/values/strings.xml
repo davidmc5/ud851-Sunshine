@@ -32,12 +32,15 @@
       - Used throughout Sunshine -
       - - - - - - - - - - - - - -->
 
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      - Used in Action Bar and in AndroidManifest to tell the device the name of this app. It's  -
-      - good practice to keep this short, so if your app's name was "The Greatest Weather App    -
-      - In the History of Mankind", your launcher icon isn't displayed with "The greatest Wea"   -
-      - or something similar.                                                                    -
-      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  - Used in Action Bar and in AndroidManifest to tell the device the name of this app. It's  -
+  - good practice to keep this short, so if your app's name was "The Greatest Weather App    -
+  - In the History of Mankind", your launcher icon isn't displayed with "The greatest Wea"   -
+  - or something similar.                                                                    -
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <string name="app_name">Sunshine</string>
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
